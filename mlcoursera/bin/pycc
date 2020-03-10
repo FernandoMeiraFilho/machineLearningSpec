@@ -1,0 +1,3 @@
+#!/Users/fernandomeira/github/machineLearningSpec/mlcoursera/bin/python
+from numba.pycc import main
+main()
